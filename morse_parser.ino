@@ -1,4 +1,5 @@
 /*
+ SAMPLE CODE FOR REFERENCE
  String to Morse code (International, ITU)
  
  Durations:
